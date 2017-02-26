@@ -1,0 +1,9 @@
+2015-11-19 11:11:07,358 - DaemonLog - INFO - Info message
+2015-11-19 11:11:07,359 - DaemonLog - WARNING - Warning message
+2015-11-19 11:11:07,359 - DaemonLog - ERROR - Error message
+2015-11-19 11:11:17,370 - DaemonLog - INFO - Info message
+2015-11-19 11:11:17,371 - DaemonLog - WARNING - Warning message
+2015-11-19 11:11:17,373 - DaemonLog - ERROR - Error message
+2015-11-19 11:27:03,874 - DaemonLog - INFO - Info message
+2015-11-19 11:27:03,875 - DaemonLog - WARNING - Warning message
+2015-11-19 11:27:03,875 - DaemonLog - ERROR - Error message
