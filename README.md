@@ -1,8 +1,8 @@
 # cec-daemon
 CEC Daemon to control CEC devices
 
-##Setup
-###Access to cec device.
+## Setup
+### Access to cec device.
 
 Tested on Freescale Cubox-i on Arch Alarm.
 Need to install libcec for im6 devices for cec device to work. Will change for different devices/distros.
